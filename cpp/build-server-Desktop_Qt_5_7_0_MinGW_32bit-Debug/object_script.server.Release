@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\clientsocket.o
+./release\user.o
+./release\dbcreator.o
+./release\userdao.o
+./release\person.o
+./release\roomlist.o
+./release\moc_mainwindow.o
+./release\moc_clientsocket.o
+);

@@ -1,0 +1,247 @@
+Type:1	UsrName:1	ChatName:服务器	Time:Sat Oct  8 09:12:03 2016
+Data:
+登录密码有误！！！
+Type:1	UsrName:1	ChatName:服务器	Time:Sat Oct  8 09:12:11 2016
+Data:
+登录密码有误！！！
+Type:1	UsrName:1	ChatName:服务器	Time:Sat Oct  8 09:12:19 2016
+Data:
+登录密码有误！！！
+Type:2	UsrName:1	ChatName:服务器	Time:Sat Oct  8 09:12:32 2016
+Data:
+该用户名已被注册，注册失败！！！
+Type:2	UsrName:1	ChatName:服务器	Time:Sat Oct  8 09:12:47 2016
+Data:
+该用户名已被注册，注册失败！！！
+Type:1	UsrName:1	ChatName:服务器	Time:Sat Oct  8 09:13:00 2016
+Data:
+登录成功！！！
+Type:1	UsrName:2	ChatName:服务器	Time:Sat Oct  8 09:13:13 2016
+Data:
+登录成功！！！
+Type:1	UsrName:3	ChatName:服务器	Time:Sat Oct  8 09:13:19 2016
+Data:
+登录成功！！！
+Type:1	UsrName:1	ChatName:服务器	Time:Sat Oct  8 09:13:36 2016
+Data:
+该用户已经在线！！！
+Type:6	UsrName:1	ChatName:服务器	Time:Sat Oct  8 09:13:00 2016
+Data:
+1
+Type:6	UsrName:1	ChatName:服务器	Time:Sat Oct  8 09:13:13 2016
+Data:
+2
+Type:6	UsrName:1	ChatName:服务器	Time:Sat Oct  8 09:13:19 2016
+Data:
+3
+Type:6	UsrName:1	ChatName:服务器	Time:Sat Oct  8 09:13:00 2016
+Data:
+1
+Type:6	UsrName:1	ChatName:服务器	Time:Sat Oct  8 09:13:13 2016
+Data:
+2
+Type:6	UsrName:1	ChatName:服务器	Time:Sat Oct  8 09:13:19 2016
+Data:
+3
+Type:3	UsrName:	ChatName:服务器	Time:Sat Oct  8 09:14:18 2016
+Data:
+sh: 1: 123: not found
+Type:3	UsrName:	ChatName:服务器	Time:Sat Oct  8 09:14:35 2016
+Data:
+/mnt/hgfs/myshare/lsd/chat/server
+Type:3	UsrName:	ChatName:服务器	Time:Sat Oct  8 09:14:37 2016
+Data:
+
+Type:3	UsrName:	ChatName:服务器	Time:Sat Oct  8 09:14:43 2016
+Data:
+总用量 5
+drwxrwxrwx 1 root root    0 10月  8 09:10 bin
+drwxrwxrwx 1 root root 4096 9月  30 20:47 data
+drwxrwxrwx 1 root root    0 9月  30 20:47 include
+-rwxrwxrwx 1 root root  365 9月  23 21:19 makefile
+drwxrwxrwx 1 root root    0 10月  8 09:10 obj
+drwxrwxrwx 1 root root    0 9月  30 20:47 src
+Type:3	UsrName:	ChatName:服务器	Time:Sat Oct  8 09:14:54 2016
+Data:
+ens33     Link encap:以太网  硬件地址 00:0c:29:b6:57:c8  
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  跃点数:1
+          接收数据包:0 错误:0 丢弃:0 过载:0 帧数:0
+          发送数据包:695 错误:0 丢弃:0 过载:0 载波:0
+          碰撞:0 发送队列长度:1000 
+          接收字节:0 (0.0 B)  发送字节:114851 (114.8 KB)
+
+lo        Link encap:本地环回  
+          inet 地址:127.0.0.1  掩码:255.0.0.0
+          inet6 地址: ::1/128 Scope:Host
+          UP LOOPBACK RUNNING  MTU:65536  跃点数:1
+          接收数据包:11479 错误:0 丢弃:0 过载:0 帧数:0
+          发送数据包:11479 错误:0 丢弃:0 过载:0 载波:0
+          碰撞:0 发送队列长度:1 
+          接收字节:2021539 (2.0 MB)  发送字节:2021539 (2.0 MB)
+
+virbr0    Link encap:以太网  硬件地址 00:00:00:00:00:00  
+          inet 地址:192.168.122.1  广播:192.168.122.255  掩码:255.255.255.0
+          UP BROADCAST MULTICAST  MTU:1500  跃点数:1
+          接收数据包:0 错误:0 丢弃:0 过载:0 帧数:0
+          发送数据包:0 错误:0 丢弃:0 过载:0 载波:0
+          碰撞:0 发送队列长度:1000 
+          接收字节:0 (0.0 B)  发送字节:0 (0.0 B)
+
+Type:5	UsrName:1	ChatName:服务器	Time:Sat Oct  8 09:15:21 2016
+Data:
+hello
+Type:5	UsrName:1	ChatName:服务器	Time:Sat Oct  8 09:15:21 2016
+Data:
+hello
+Type:5	UsrName:1	ChatName:服务器	Time:Sat Oct  8 09:15:46 2016
+Data:
+world
+Type:5	UsrName:1	ChatName:服务器	Time:Sat Oct  8 09:15:46 2016
+Data:
+world
+Type:4	UsrName:1	ChatName:1	Time:Sat Oct  8 09:16:13 2016
+Data:
+hello
+Type:4	UsrName:1	ChatName:2	Time:Sat Oct  8 09:16:24 2016
+Data:
+1234
+Type:6	UsrName:1	ChatName:服务器	Time:Sat Oct  8 09:13:00 2016
+Data:
+1
+Type:6	UsrName:1	ChatName:服务器	Time:Sat Oct  8 09:13:13 2016
+Data:
+2
+Type:6	UsrName:1	ChatName:服务器	Time:Sat Oct  8 09:13:19 2016
+Data:
+3
+Type:3	UsrName:	ChatName:服务器	Time:Sat Oct  8 09:16:49 2016
+Data:
+
+Type:0	UsrName:2	ChatName:服务器	Time:Sat Oct  8 09:16:58 2016
+Data:
+退出成功！！！
+Type:6	UsrName:1	ChatName:服务器	Time:Sat Oct  8 09:13:00 2016
+Data:
+1
+Type:6	UsrName:1	ChatName:服务器	Time:Sat Oct  8 09:13:19 2016
+Data:
+3
+Type:6	UsrName:1	ChatName:服务器	Time:Sat Oct  8 09:13:00 2016
+Data:
+1
+Type:6	UsrName:1	ChatName:服务器	Time:Sat Oct  8 09:13:19 2016
+Data:
+3
+Type:6	UsrName:1	ChatName:服务器	Time:Sat Oct  8 09:13:00 2016
+Data:
+1
+Type:6	UsrName:1	ChatName:服务器	Time:Sat Oct  8 09:13:19 2016
+Data:
+3
+Type:6	UsrName:1	ChatName:服务器	Time:Sat Oct  8 09:13:00 2016
+Data:
+1
+Type:6	UsrName:1	ChatName:服务器	Time:Sat Oct  8 09:13:19 2016
+Data:
+3
+Type:6	UsrName:1	ChatName:服务器	Time:Sat Oct  8 09:13:00 2016
+Data:
+1
+Type:0	UsrName:1	ChatName:服务器	Time:Sat Oct  8 09:17:56 2016
+Data:
+退出成功！！！
+Type:1	UsrName:1	ChatName:服务器	Time:Sat Oct  8 11:03:52 2016
+Data:
+登录成功！！！
+Type:1	UsrName:1	ChatName:服务器	Time:Sat Oct  8 11:04:14 2016
+Data:
+该用户已经在线！！！
+Type:1	UsrName:2	ChatName:服务器	Time:Sat Oct  8 11:04:24 2016
+Data:
+登录成功！！！
+Type:1	UsrName:3	ChatName:服务器	Time:Sat Oct  8 11:04:52 2016
+Data:
+登录成功！！！
+Type:0	UsrName:3	ChatName:服务器	Time:Sat Oct  8 11:06:16 2016
+Data:
+退出成功！！！
+Type:0	UsrName:2	ChatName:服务器	Time:Sat Oct  8 11:06:19 2016
+Data:
+退出成功！！！
+Type:0	UsrName:1	ChatName:服务器	Time:Sat Oct  8 11:06:21 2016
+Data:
+退出成功！！！
+Type:1	UsrName:1	ChatName:服务器	Time:Sat Oct  8 11:08:25 2016
+Data:
+登录成功！！！
+Type:1	UsrName:2	ChatName:服务器	Time:Sat Oct  8 11:08:30 2016
+Data:
+登录成功！！！
+Type:1	UsrName:3	ChatName:服务器	Time:Sat Oct  8 11:08:34 2016
+Data:
+登录成功！！！
+Type:0	UsrName:1	ChatName:服务器	Time:Sat Oct  8 11:09:40 2016
+Data:
+退出成功！！！
+Type:1	UsrName:1	ChatName:服务器	Time:Sat Oct  8 11:09:45 2016
+Data:
+登录成功！！！
+Type:0	UsrName:1	ChatName:服务器	Time:Sat Oct  8 11:11:11 2016
+Data:
+退出成功！！！
+Type:0	UsrName:2	ChatName:服务器	Time:Sat Oct  8 11:11:17 2016
+Data:
+退出成功！！！
+Type:0	UsrName:3	ChatName:服务器	Time:Sat Oct  8 11:11:22 2016
+Data:
+退出成功！！！
+Type:1	UsrName:1	ChatName:服务器	Time:Sat Oct  8 12:07:36 2016
+Data:
+登录成功！！！
+Type:1	UsrName:2	ChatName:服务器	Time:Sat Oct  8 12:08:23 2016
+Data:
+登录成功！！！
+Type:1	UsrName:1	ChatName:服务器	Time:Sat Oct  8 12:08:47 2016
+Data:
+该用户已经在线！！！
+Type:1	UsrName:3	ChatName:服务器	Time:Sat Oct  8 12:08:57 2016
+Data:
+登录成功！！！
+Type:0	UsrName:3	ChatName:服务器	Time:Sat Oct  8 12:16:02 2016
+Data:
+退出成功！！！
+Type:0	UsrName:2	ChatName:服务器	Time:Sat Oct  8 12:17:25 2016
+Data:
+退出成功！！！
+Type:0	UsrName:1	ChatName:服务器	Time:Sat Oct  8 12:17:30 2016
+Data:
+退出成功！！！
+Type:1	UsrName:1	ChatName:服务器	Time:Sat Oct  8 13:08:11 2016
+Data:
+登录成功！！！
+Type:3	UsrName:	ChatName:服务器	Time:Sat Oct  8 13:08:24 2016
+Data:
+touch 1.txt
+Type:3	UsrName:	ChatName:服务器	Time:Sat Oct  8 13:08:28 2016
+Data:
+1.txt
+bin
+data
+include
+makefile
+obj
+src
+Type:3	UsrName:	ChatName:服务器	Time:Sat Oct  8 13:09:19 2016
+Data:
+rm 1.txt
+Type:3	UsrName:	ChatName:服务器	Time:Sat Oct  8 13:09:21 2016
+Data:
+bin
+data
+include
+makefile
+obj
+src
+Type:0	UsrName:1	ChatName:服务器	Time:Sat Oct  8 13:09:48 2016
+Data:
+退出成功！！！

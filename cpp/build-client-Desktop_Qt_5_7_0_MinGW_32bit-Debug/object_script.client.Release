@@ -1,0 +1,15 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\enrollwindow.o
+./release\sclicklabel.o
+./release\roomwindow.o
+./release\myroomwindow.o
+./release\videosurface.o
+./release\moc_mainwindow.o
+./release\moc_enrollwindow.o
+./release\moc_sclicklabel.o
+./release\moc_roomwindow.o
+./release\moc_myroomwindow.o
+./release\moc_videosurface.o
+);

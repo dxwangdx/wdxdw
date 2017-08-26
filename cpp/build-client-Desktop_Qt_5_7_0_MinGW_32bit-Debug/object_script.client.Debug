@@ -1,0 +1,15 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\enrollwindow.o
+./debug\sclicklabel.o
+./debug\roomwindow.o
+./debug\myroomwindow.o
+./debug\videosurface.o
+./debug\moc_mainwindow.o
+./debug\moc_enrollwindow.o
+./debug\moc_sclicklabel.o
+./debug\moc_roomwindow.o
+./debug\moc_myroomwindow.o
+./debug\moc_videosurface.o
+);
